@@ -11,39 +11,39 @@ body {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  padding: 24px 0;
+  padding: 24 px 0;
 }
 .cabecalho-imagem{
-  width: 10%;
+  width: 10 %;
 }
 
 .cabecalho-lista-item{
   display: inline-block;
-  margin: 0 16px;
-  font-size: 16px;
+  margin: 0 16 px;
+  font-size: 16 px;
 }
 
 .top 10 jogos-imagem{
-  width: 25%;
+  width: 25 %;
 }
 .top 10 jogos{
   background-image: linear-gradient(#424E61,#16CFF8);
-  color:white;
+  color:white 
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 24px 0;
+  padding: 24 px 0;
 }
 
 .top 10 jogos-div-conteudo{
-    width: 35%;
+    width: 35 %;
 }
 
 
 .top 10 jogos-titulo{
-    padding: 24px 0;
+    padding: 24 px 0;
 }
 
 .top 10 jogos{
-    padding: 24px 0;
+    padding: 24 px 0;
 }
